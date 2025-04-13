@@ -1,0 +1,16 @@
+* ac183d8 (HEAD -> master) Final commit
+*   606baba (origin/master, origin/HEAD) Resolved merge conflict
+|\
+| *   ece1d5c Merge pull request #12 from DavidDajo/4-sort-tasks-by-priority
+| |\
+| | * a2bc217 (origin/4-sort-tasks-by-priority, 4-sort-tasks-by-priority) Task 4 completed
+| * |   e580fa6 Merge branch 'master' of https://github.com/DavidDajo/SI_2025_lab1_213055
+| |\ \
+| | * \   ba7e4e6 Merge pull request #10 from DavidDajo/2-find-all-completed-tasks
+| | |\ \
+| | | |/
+| | |/|
+| * | | 78eaf23 Task 3 completed
+| | |/
+| |/|
+| * | e230261 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Task 2 completed
