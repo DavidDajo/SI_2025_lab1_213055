@@ -11,3 +11,8 @@ git merge 3-list-task-sorted-by-name
 23. git push origin master
 25. git add . 
 git commit -m "Final commit"
+
+28. git clone https://github.com/DavidDajo/SI_2025_lab1_151020.git
+29. git add .
+git commit -m "Add file"
+30. git push origin master
