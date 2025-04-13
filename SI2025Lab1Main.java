@@ -69,7 +69,7 @@ class TaskManager {
 
     // 2. Find all completed tasks
     public List<Task> getCompletedTasks() {
-        // TODO: Implement logic to return completed tasks
+        tasks.sort(Comparator.comparing(Task::getName));
         return new ArrayList<>();
     }
 
